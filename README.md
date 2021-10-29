@@ -1,7 +1,4 @@
-
-
-<!--
-**waderyann/waderyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Here is What I'm working On!
 
 Here are some ideas to get you started:
 
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... My Projects!
 - 📫 How to reach me: ... Github Messages!
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I Love Crispy Creme
--->
+- ⚡ Fun fact: ... Aspiring DevOps and SoftwareDeveloper
