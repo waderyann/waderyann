@@ -1,6 +1,4 @@
-###Here is What I'm working On!
-
-Here are some ideas to get you started:
+Here is What I'm working On!
 
 - 🔭 I’m currently working on ... Personal Projects
 - 🌱 I’m currently learning ... Python/Java/Bash/Proccessing
